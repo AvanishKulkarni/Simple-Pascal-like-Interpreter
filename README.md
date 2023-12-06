@@ -1,5 +1,5 @@
 # Simple Pascal-like Interpreter
-This is an interpreter written in C++ for NJIT's CS280: Programming Language Concepts class. 
+This is an interpreter written in C++ for NJIT's CS280: Programming Language Concepts class. Compile it with GCC C++11, I haven't tested other compilers (although it should still work fine).
 
 It follows the following EBNF structure:
 1. Prog ::= PROGRAM IDENT ; DeclPart CompoundStmt . 
